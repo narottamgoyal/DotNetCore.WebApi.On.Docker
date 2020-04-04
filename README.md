@@ -1,6 +1,6 @@
 # DotNetCore.WebApi.On.Docker
 
-Sample dotnet web api running on docker, Run the below command for the same
+Run the below command to deploy sample dotnet web api code on docker
 
         docker-compose build
         docker-compose up
