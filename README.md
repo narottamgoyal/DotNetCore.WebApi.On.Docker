@@ -40,9 +40,3 @@ Run the below command to deploy sample dotnet web api code on docker
 
   ![image](https://user-images.githubusercontent.com/2716202/78424475-6367bb00-765d-11ea-868e-9c23400ea08b.png)
 
-# Reference
-
-- [Docker For Windows 10 Home Edition](https://www.youtube.com/watch?v=YH3sutAsxEM)
-- [Running in Docker | ASP.NET Core 2.2 REST API Tutorial](https://www.youtube.com/watch?v=fAtfVu569CY)
-- [Basic information](https://docker-curriculum.com/)
-- [Online docker playground](https://www.katacoda.com/courses/docker/create-nginx-static-web-server)
